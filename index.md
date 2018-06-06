@@ -4,4 +4,4 @@ layout: page
 ---
 
 I am a BSc. Computer Science Student at the University of the West Indies, St. Augustine and should be graduating this year. I am currently working as a Software Engineering Intern at [Virtana](https://virtanatech.com/) through the DCIT Internship Programme. <br>
-My interests include Electronics, Programming Languages, Competitive Programming, Machine Learning, and Computer Accessibility.
+My interests include Computer Science and Engineering, Electronics, Programming Languages, Competitive Programming, Machine Learning, and Computer Accessibility.
