@@ -1,0 +1,12 @@
+.item {
+  margin-bottom: 20px;
+}
+  
+.item h3, .item p{
+  margin-bottom: 0;
+}
+
+.item p {
+  font-size: small;
+  font-style: italic;
+}

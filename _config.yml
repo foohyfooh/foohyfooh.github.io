@@ -16,6 +16,9 @@ header_pages:
 plugins:
   - jekyll-feed
 
+sass:
+  style: compressed
+
 collections:
   projects:
       output: true
