@@ -52,3 +52,4 @@ It is basically a set of values that define an objects orientation. It can be us
 ### Mathematics
 - [Rotation Matrix](https://en.wikipedia.org/wiki/Rotation_matrix)
 - [Quaternion](https://en.wikipedia.org/wiki/Quaternion)
+- [Quaternions and Spatial Rotation](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
