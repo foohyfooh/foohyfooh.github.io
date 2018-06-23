@@ -1,7 +1,7 @@
 ---
 title: Posts
 layout: page
-permalink: /posts/
+permalink: /posts_paged/
 pagination:
   enabled: true
   trail:

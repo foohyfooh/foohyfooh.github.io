@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: page
-permalink: /projects/
+permalink: /projects_paged/
 pagination:
   enabled: true
   collection: projects
