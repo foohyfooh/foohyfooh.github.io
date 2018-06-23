@@ -10,3 +10,35 @@
   font-size: small;
   font-style: italic;
 }
+
+
+#trail {
+  text-align: center;
+  display: block;
+  font-size: 40px;
+}
+
+#trail svg{
+  width: 40px;
+  height: 40px;
+  fill: #2a7ae2;
+}
+
+#trail svg:hover{
+  width: 40px;
+  height: 40px;
+  fill: black;
+}
+
+#trail a{
+  display: inline;
+  text-decoration: none;
+}
+
+#trail a.selected{
+  color: black;
+}
+
+#trail a.disabled{
+  pointer-events: none;
+}
