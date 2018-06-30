@@ -5,7 +5,7 @@ date:   2018-06-15 -0400
 categories: posts
 ---
 
-I have started my internship at [Virtana](https://virtanatech.com/). My week has been spent learning the pybullet Python library using Python 2.7 and matrix mathematics. Thus far my days have consisted of running the pybullet examples and try to understand them to be able to make simple simulations using the included models, learning how the camera is works, understanding view and projection matricies, and controlling robots in a simulation.
+I have started my internship at [Virtana](https://virtanatech.com/). My week has been spent learning the pybullet Python library using Python 2.7 and matrix mathematics. Thus far my days have consisted of running the pybullet examples and try to understand them to be able to make simple simulations using the included models, learning how the camera is works, understanding view and projection matrices, and controlling robots in a simulation.
 
 
 To learn the pybullet library, I have been reading their quickstart guide. I stared by trying to understand how to put the models in the world and their positioning. At first, I wasn't sure how to move the view in the world and that made looking at what I was doing harder than it should have been, but I did eventually learn it.<br>
@@ -15,7 +15,7 @@ I had to learn how make a view matrix using the homogeneous transformation. The 
 
 
 ## Mathematics Reference
-**Note**: My explanations of the mathematical concepts are coming from someone who is learning it on the job, and doesn't have a Mathematics nor Engineering degree. 
+**Note**: My explanations of the mathematical concepts are coming from someone who is learning it on the job, and doesn't have a Mathematics nor Engineering degree.
 I only understand some of it thanks to my boss explaining it to me to try to get a picture.
 
 ### Rotation Matrix
@@ -30,7 +30,7 @@ Rotation in the z-axis
 
 
 ### Homogeneous Transformation
-In simple terms, it is matrix that maps coordinates with respect one reference point eg. point about the robot 
+In simple terms, it is matrix that maps coordinates with respect one reference point eg. point about the robot
 to coordinates with respect to another reference point eg. the origin of the world.
 
 
