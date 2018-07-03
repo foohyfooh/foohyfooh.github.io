@@ -5,7 +5,7 @@ date:   2018-06-22 -0400
 categories: posts
 ---
 
-This week at [Virtana](https://virtanatech.com/) has been spent attempt to build my work from [last week](/posts/2018/06/15/Virtana-Week-1.html). I have continued working with the camera APIs, been attempting to understand meshes, and started making meaningful contributions.
+This week at [Virtana](https://virtanatech.com/) has been spent attempting to build my work from [last week](/posts/2018/06/15/Virtana-Week-1.html). I have continued working with the camera APIs, been attempting to understand meshes, and started making meaningful contributions.
 
 I had installed Blender to modify the meshes of the pybullet samples. I wanted to get the texture to appear on a single side of an object and not on each side of it. I had some partial success but using Blender wasn't the best as it would involve manually making meshes. To avoid that complexity, I searched for a Python library to generate the mesh and found OpenMesh. I tried to use OpenMesh to generate the mesh files to apply textures to, but this was unsuccessful and only produced poor results.
 
