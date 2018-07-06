@@ -20,3 +20,10 @@ I have also started trying to fix the generated calibration target to correct it
 
 ## Reference Links
 - [Wavefront Geometry Format for 3D Models](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+
+### OpenCV 2.4.13.6 Camera Calibration
+- [Camera calibration With OpenCV](https://docs.opencv.org/2.4.13.6/doc/tutorials/calib3d/camera_calibration/camera_calibration.html)
+- [calibrateCamera](https://docs.opencv.org/2.4.13.6/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#calibratecamera)
+
+### OpenCV 3.4.1 Camera Calibration
+- [Camera Calibration](https://docs.opencv.org/3.4.1/dc/dbb/tutorial_py_calibration.html)
