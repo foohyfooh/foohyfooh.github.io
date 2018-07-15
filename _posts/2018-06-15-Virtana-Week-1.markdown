@@ -21,12 +21,12 @@ I only understand some of it thanks to my boss explaining it to me to try to get
 ### Rotation Matrix
 Examples rotation matrices
 
-Rotation in the x-axis
-![Rotation in the x-axis with angle &#952;](/images/maths/Rotate_X.png){:height="150px"} <br>
-Rotation in the y-axis
-![Rotation in the y-axis with angle &#952;](/images/maths/Rotate_Y.png){:height="150px"} <br>
-Rotation in the z-axis
-![Rotation in the z-axis with angle &#952;](/images/maths/Rotate_Z.png){:height="150px"} <br>
+Rotation in the x-axis \\
+![Rotation in the x-axis with angle &#952;](/images/virtana_posts/Rotate_X.png){:height="100px"} <br>
+Rotation in the y-axis \\
+![Rotation in the y-axis with angle &#952;](/images/virtana_posts/Rotate_Y.png){:height="100px"} <br>
+Rotation in the z-axis \\
+![Rotation in the z-axis with angle &#952;](/images/virtana_posts/Rotate_Z.png){:height="100px"} <br>
 
 
 ### Homogeneous Transformation
@@ -35,12 +35,15 @@ to coordinates with respect to another reference point eg. the origin of the wor
 
 
 Below is a diagram explaining how to make the matrix is made.
-![Homogeneous Transformation](/images/maths/Homogeneous_Transformation.png)
+![Homogeneous Transformation](/images/virtana_posts/Homogeneous_Transformation.png)
 It contains a 3\*3 rotation matrix, a 3\*1 point vector and the last row is [0 0 0 1].
 
 
 ### Quaternion
-It is basically a set of values that define an objects orientation. It can be used to generate a rotation matrix to be used in a transformation matrix
+It is basically a set of values that define an object's orientation. \\
+![Quaternion](/images/virtana_posts/Quaternion.png){:height="50px" width="300px"} <br>
+The following shows how it can be used to generate an equivalent rotation matrix <br>
+![Quaternion to Rotation Matrix](/images/virtana_posts/Quaternion_to_Rotation_Matrix.png){:height="125px"}
 
 
 ## Reference Links
