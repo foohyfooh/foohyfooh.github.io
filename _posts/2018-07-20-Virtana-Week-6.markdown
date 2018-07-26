@@ -9,6 +9,6 @@ This week at [Virtana](https://virtanatech.com/) has been spent attempting to bu
 
 I finished the WebRTC stuff that I had started last week. Now all the cameras in the simulation should be able to send data to a remote viewer using WebRTC.
 
-For most of this week I have been trying to simplify communication between a user and the simulation robot. This is has not gone the best and I have temporarily given up on it.
+For most of this week I have been trying to simplify communication between a user and the simulation robot. This is has not gone the best as I am not understanding the data flow for the system and I have temporarily moved onto fixing a bug.
 
 I have moved to fixing a bug in the simulation output that is being used by WebRTC. It involved adding a lock to the the output statement so that multiple camera don't output data at the same time thus causing malformed data to be output.

@@ -24,7 +24,7 @@ A UVC (or USB Video Class) Camera had to be added to the simulation. For this ca
 |![Colour Space RGB](/images/virtana_posts/Colour_Spaces_RGB.png){:height="90px"}|![Colour Space BGR](/images/virtana_posts/Colour_Spaces_BGR.png){:height="90px"}|
 
 
-Lastly, I have started working with WebRTC to send images from the cameras that are in the simulation.
+Lastly, I have started working to output camera images and other data from the simualtion to be sent using WebRTC to a remote viewer.
 
 
 ## References
