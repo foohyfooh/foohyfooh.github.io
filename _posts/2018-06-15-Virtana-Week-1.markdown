@@ -19,7 +19,7 @@ I had to learn how make a view matrix using the homogeneous transformation. The 
 I only understand some of it thanks to my boss explaining it to me to try to get a picture.
 
 ### Rotation Matrix
-Examples rotation matrices
+Example rotation matrices
 
 Rotation in the x-axis \\
 ![Rotation in the x-axis with angle &#952;](/images/virtana_posts/Rotate_X.png){:height="100px"} <br>
@@ -49,7 +49,7 @@ The following shows how it can be used to generate an equivalent rotation matrix
 ## Reference Links
 ### Pybullet
 - [Web Site](https://pybullet.org/)
-- [Quickstart Guid](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
+- [Quickstart Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 - [Example Code](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet)
 
 ### Mathematics
