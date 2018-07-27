@@ -15,6 +15,7 @@ The process of getting inverse kinematics working as expected is still ongoing t
 
 
 ## References
+- [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
 
 ### Mathematics
 - [Euler Angles](https://en.wikipedia.org/wiki/Euler_angles)
