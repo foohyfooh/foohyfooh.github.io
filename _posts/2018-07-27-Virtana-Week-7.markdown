@@ -11,10 +11,9 @@ Originally, I was supposed to just be  fixing the bug in the simulation cameras'
 
 I continued the simplification of the updating the positioning of the simulation robot that was started last week. This involved getting the removing intermediary programs between the simulation and an operator program, and making the simulation accept the input commands that the intermediary programs translated into joint angles for the robot.<br>
 The simulation is working correctly when getting joint angles but when giving a pose it has different results than before due to the different reference points of the robot software that was previously calculating inverse kinematics and the simulation. One of the problems I was getting had to deal with the orientation of the robot pose. I was assuming the rotation vector for the end effector was in Euler Angles but it was actually an Axis-Angle. Thus the pose orientation had to be converted from Axis-Angle to Euler Angles to Quaternion to used in the simulation.<br>
-The process of getting inverse kinematics working as expected is still ongoing though.
+To get the inverse kinematics working correctly required some transforms and a bit of modifications to the model file to make the robot behave as it should have.
 
-
-## References
+## Reference Links
 - [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
 
 ### Mathematics

@@ -27,7 +27,7 @@ A UVC (or USB Video Class) Camera had to be added to the simulation. For this ca
 Lastly, I have started working to output camera images and other data from the simualtion to be sent using WebRTC to a remote viewer.
 
 
-## References
+## Reference Links
 - [Face Culling](https://www.khronos.org/opengl/wiki/Face_Culling)
 - [UVC](https://en.wikipedia.org/wiki/USB_video_device_class)
 
