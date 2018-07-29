@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Contributors Generator"
-date:   2018-05-19 -0400
+date:   2018-05-19 5:20:00 -0400
 categories: GitHub
 ---
 

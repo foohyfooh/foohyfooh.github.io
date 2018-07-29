@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sphero BB-8 Projects"
-date:   2018-05-19 -0400
+date:   2018-05-19 5:00:00 -0400
 categories: BB-8
 ---
 

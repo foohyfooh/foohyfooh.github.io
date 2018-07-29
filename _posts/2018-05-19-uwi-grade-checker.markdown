@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UWI Grade Checker"
-date:   2018-05-19 -0400
+date:   2018-05-19 5:40:00 -0400
 categories: UWI
 ---
 
