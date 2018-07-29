@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 5"
 date:   2018-07-13 -0400
-categories: posts
+categories: Virtana
 ---
 
 This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/07/06/Virtana-Week-4.html). I have been working on textured boxes, adding a UVC camera to the simulation, and started working with WebRTC to send camera images.

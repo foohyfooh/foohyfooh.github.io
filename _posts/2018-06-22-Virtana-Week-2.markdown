@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 2"
 date:   2018-06-22 -0400
-categories: posts
+categories: Virtana
 ---
 
 This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/15/Virtana-Week-1.html). I have continued working with the camera APIs, been attempting to understand meshes, and started making meaningful contributions.

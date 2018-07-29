@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 3"
 date:   2018-06-29 -0400
-categories: posts
+categories: Virtana
 ---
 
 This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/22/Virtana-Week-2.html). I have started work on a calibration target, refactored the simulation class to make new simpler classes, and dealt with issues.

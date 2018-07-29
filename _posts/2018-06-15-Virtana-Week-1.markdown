@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 1"
 date:   2018-06-15 -0400
-categories: posts
+categories: Virtana
 ---
 
 I have started my internship at [Virtana](https://virtanatech.com/). My week has been spent learning the pybullet Python library using Python 2.7 and matrix mathematics. Thus far my days have consisted of running the pybullet examples and try to understand them to be able to make simple simulations using the included models, learning how the camera is works, understanding view and projection matrices, and controlling robots in a simulation.

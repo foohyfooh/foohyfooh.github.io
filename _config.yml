@@ -1,7 +1,7 @@
 # Site Settings
 title: Jonathan Herbert
 email: ""
-description: >- 
+description: >-
   Jonathan Herbert's GitHub page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://foohyfooh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,6 +28,6 @@ pagination:
 
 # Collection Settigs
 collections:
-  projects:
+  posts:
       output: true
-      permalink: /:collection/:year/:month/:day/:title
+      permalink: /posts/:year/:month/:day/:title

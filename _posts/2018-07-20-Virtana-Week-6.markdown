@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 6"
 date:   2018-07-20 -0400
-categories: posts
+categories: Virtana
 ---
 
 This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/07/13/Virtana-Week-5.html). My week was spent finishing the WebRTC additions that I had started last week, working on simplifying the communication process to update robot joints and attempting to fix a bug in the simulation output for WebRTC.

@@ -11,9 +11,7 @@ My interests include Computer Science and Engineering, Electronics, Programming 
 
 ## Recent Posts
 {% assign posts = site.posts | sort: 'date' | reverse %}
-{% assign projects = site.projects | sort: 'date' | reverse %}
-{% assign all_posts = posts | concat: projects %}
-{% for post in all_posts limit:3 %}
+{% for post in posts limit:4 %}
 <div class="item">
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date: "%B %e, %Y" }}</p>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtana Week 7"
 date:   2018-07-27 -0400
-categories: posts
+categories: Virtana
 ---
 
 This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/07/20/Virtana-Week-6.html). I refactored camera code and have been working on simplifying the communication process to update robot joints.
