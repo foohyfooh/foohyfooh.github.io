@@ -5,7 +5,7 @@ date:   2018-07-29 -0400
 categories: Python
 ---
 
-This article was inspired by my co-worker asking the meaning of the two underscores i had before a property in a Python class.
+This article was inspired by my co-worker asking the meaning of the two underscores that I had before a property in a Python class.
 
 In the following Python code, I will show the convention that I use for access control of methods and properties.
 
