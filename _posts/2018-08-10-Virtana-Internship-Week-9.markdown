@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Virtana Week 9"
+title:  "Virtana Internship Week 9"
 date:   2018-08-10 -0400
 categories: Virtana
 ---
 
-This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/08/03/Virtana-Week-8.html). This week I completed what I started about 2 weeks ago and I have started working on outputting data to inform client programs of the positioning of the robot in the scene.
+This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/08/03/Virtana-Internship-Week-8). This week I completed what I started about 2 weeks ago and I have started working on outputting data to inform client programs of the positioning of the robot in the scene.
 
 My changes from the last 2 weeks have been merged into master, and now the simulation can take commands directly to move it from a remote client.
 

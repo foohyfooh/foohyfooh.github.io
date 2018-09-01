@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Virtana Week 1"
+title:  "Virtana Internship Week 1"
 date:   2018-06-15 -0400
 categories: Virtana
 ---

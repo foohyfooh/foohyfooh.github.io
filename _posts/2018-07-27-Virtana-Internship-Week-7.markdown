@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Virtana Week 7"
+title:  "Virtana Internship Week 7"
 date:   2018-07-27 -0400
 categories: Virtana
 ---
 
-This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/07/20/Virtana-Week-6.html). I refactored camera code and have been working on simplifying the communication process to update robot joints.
+This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/07/20/Virtana-Internship-Week-6). I refactored camera code and have been working on simplifying the communication process to update robot joints.
 
 Originally, I was supposed to just be  fixing the bug in the simulation cameras' output for WebRTC that I mentioned last week, but instead I decided to refactor the code as well. The  camera code had to logic for image processing and making packets mixed together. This was fine when the cameras only had to send the images as TCP/IP packets, but it became a problem when the simulation needed to output data to be read by another program as input. The code was doing unnecessary work since the packets it was generating would have been ignored. Now the three processes are separate functions and hopefully the bug is fixed.
 

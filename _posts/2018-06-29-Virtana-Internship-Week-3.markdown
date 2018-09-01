@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Virtana Week 3"
+title:  "Virtana Internship Week 3"
 date:   2018-06-29 -0400
 categories: Virtana
 ---
 
-This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/22/Virtana-Week-2.html). I have started work on a calibration target, refactored the simulation class to make new simpler classes, and dealt with issues.
+This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/22/Virtana-Internship-Week-2). I have started work on a calibration target, refactored the simulation class to make new simpler classes, and dealt with issues.
 
 I have worked on adding a calibration target to a simulation. A calibration target is an image used to determine the intrinsics of the camera. I had originally been given an image and had to determine necessary values for it to calibrate the camera from it, but then was given the image that we were going to actually use. I then needed to generate a mesh for the target and then read in the image as a texture for it. Once that was successful, I had moved to generating the image myself. Then finally it was added to the overall simulation. <br>
 ![Asymmetric Circle Grid Calibration Target](/images/virtana_posts/Calibration_Target.jpg){:height="194px" width="150px"}

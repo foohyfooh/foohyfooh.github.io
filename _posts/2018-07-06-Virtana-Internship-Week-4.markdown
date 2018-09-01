@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Virtana Week 4"
+title:  "Virtana Internship Week 4"
 date:   2018-07-06 -0400
 categories: Virtana
 ---
 
-This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/29/Virtana-Week-3.html). I have updated my calibration target code, added the initial work for a new scene to the simulation, and made a tool to do a perspective warp for images.
+This week at [Virtana](https://virtanatech.com/) has been spent attempting to build upon my work from [last week](/posts/2018/06/29/Virtana-Internship-Week-3). I have updated my calibration target code, added the initial work for a new scene to the simulation, and made a tool to do a perspective warp for images.
 
 My calibration target was a bit off so it had to be updated. I had to go over the mathematics for coordinate vertices and texture vertices.
 
