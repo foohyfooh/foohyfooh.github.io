@@ -3,8 +3,8 @@ title: Jonathan Herbert
 email: ""
 description: >-
   Jonathan Herbert's GitHub page
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://foohyfooh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 github_username: foohyfooh
 
 # Build Settings
