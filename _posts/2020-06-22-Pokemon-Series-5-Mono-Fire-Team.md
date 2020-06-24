@@ -4,6 +4,7 @@ title:  "Pokémon Sword and Shield Series 5 Mono Fire Team"
 date:   2020-06-22 -0400
 categories: Pokémon
 ---
+<link rel="stylesheet" href="/assets/pokemon.css">
 
 In preparation for the upcoming Pokemon Sword and Shield Series 5 Ranked Battles, I made a mono fire team on [Pokemon Showdown](https://play.pokemonshowdown.com/). My inspiration was that I wanted to use Alolan Marowak and Talonflame.
 
