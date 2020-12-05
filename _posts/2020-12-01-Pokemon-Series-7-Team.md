@@ -88,5 +88,5 @@ Calm Nature <br>
 
 
 Pokepaste: [https://pokepast.es/353894c63625f415](https://pokepast.es/353894c63625f415) <br>
-Rental Code: 0000 0003 7FXV JC <br>
+Rental Code: 0000 0005 CXL7 GY <br>
 ![Team Rental](/images/pokemon/2020_12_01_rental_team.jpg)
