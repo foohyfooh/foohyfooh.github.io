@@ -84,7 +84,7 @@ Jolly Nature <br>
 
 
 Pokepaste: [https://pokepast.es/8acc27e1f19b8f5e](https://pokepast.es/8acc27e1f19b8f5e) <br>
-Rental Code: 00005 RL9L HF <br>
+Rental Code: 0000 0005 RL9L HF <br>
 ![Team Rental](/images/pokemon/2021_01_19_rental_team.jpg)
 
 <hr><br>
