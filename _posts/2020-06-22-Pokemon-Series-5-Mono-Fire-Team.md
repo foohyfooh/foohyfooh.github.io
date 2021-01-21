@@ -6,7 +6,7 @@ categories: Pokémon
 ---
 <link rel="stylesheet" href="/assets/pokemon.css">
 
-In preparation for the upcoming Pokemon Sword and Shield Series 5 Ranked Battles, I made a mono fire team on [Pokemon Showdown](https://play.pokemonshowdown.com/). My inspiration was that I wanted to use Alolan Marowak and Talonflame.
+In preparation for the upcoming Pokémon Sword and Shield Series 5 Ranked Battles, I made a mono fire team on [Pokémon Showdown](https://play.pokemonshowdown.com/). My inspiration was that I wanted to use Alolan Marowak and Talonflame.
 
 The EV spreads of the team are just simple spreads of 252 in the key stats, the Arcanine spread came from [Nekkra](https://twitter.com/NekkraGaming)'s April 2020 International Challenge Team, and one modified version of a Torracat spread from [Victory Road](https://victoryroadvgc.com/).
 
@@ -25,7 +25,7 @@ Jolly Nature <br>
 \- Throat Chop <br>
 \- Detect <br>
 
-I chose Alolan Marowak since it was just released in Pokemon Sword and Shield. I chose the moves that I thought would do good damage and Poltergeist since it was one of the new tutor moves. And Lightning Rod was my choice for ability since it could protect my Talonflame and Charizard.
+I chose Alolan Marowak since it was just released in Pokémon Sword and Shield. I chose the moves that I thought would do good damage and Poltergeist since it was one of the new tutor moves. And Lightning Rod was my choice for ability since it could protect my Talonflame and Charizard.
 
 ![Talonflame](/images/pokemon/sprites/663-talonflame.png) <br>
 Talonflame @ Charti Berry <br>
@@ -38,7 +38,7 @@ Jolly Nature <br>
 \- Tailwind <br>
 \- Protect <br>
 
-I chose Talonflame since it was just released in Pokemon Sword and Shield, and since I used it during my Pokémon X playthrough. I chose Gale Wings as the ability since it gives priority for Taolwind at the start of the game.
+I chose Talonflame since it was just released in Pokemon Sword and Shield, and since I used it during my Pokémon X playthrough. I chose Gale Wings as the ability since it gives priority for Tailwind at the start of the game.
 
 ![Chandelure](/images/pokemon/sprites/609-chandelure.png) <br>
 Chandelure @ Focus Sash <br>
