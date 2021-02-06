@@ -3,28 +3,18 @@ title: Jonathan Herbert
 email: ""
 description: >-
   Jonathan Herbert's GitHub page
-url: "https://foohyfooh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://foohyfooh.github.io"
 github_username: foohyfooh
 
 # Build Settings
 markdown: kramdown
 theme: minima
 header_pages:
-  - projects.md
   - posts.md
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
 sass:
   style: compressed
-
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/page-:num.html'
-  sort_reverse: true
 
 # Collection Settigs
 collections:

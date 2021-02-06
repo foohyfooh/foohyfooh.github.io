@@ -1,9 +1,14 @@
 .item {
   margin-bottom: 20px;
 }
-  
+
 .item h3, .item p{
   margin-bottom: 0;
+}
+
+.item a {
+  font-size: 26px;
+  font-weight: 400;
 }
 
 .item p {

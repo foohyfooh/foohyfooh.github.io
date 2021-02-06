@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: default
 ---
 <link rel="stylesheet" href="/assets/page.css">
 
@@ -12,9 +12,9 @@ My gaming interests include Pokémon, Naruto Ultimate Ninja series, Super Smash 
 
 ## Recent Posts
 {% assign posts = site.posts | sort: 'date' | reverse %}
-{% for post in posts limit:4 %}
+{% for post in posts limit:5 %}
 <div class="item">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <a href="{{ post.url }}">{{ post.title }}</a>
   <p>{{ post.date | date: "%B %e, %Y" }}</p>
 </div>
 {% endfor %}
