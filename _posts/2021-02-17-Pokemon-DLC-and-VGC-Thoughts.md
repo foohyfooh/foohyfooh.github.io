@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pokémon Sword and Shield DLC and Their VGC Consequences"
+title:  "Pokémon Sword and Shield DLC and VGC Thoughts"
 date:   2021-02-17 -0400
 categories: Pokémon
 ---
