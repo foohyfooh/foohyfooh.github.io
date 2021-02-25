@@ -46,7 +46,7 @@ Two solutions that I believe could be implemented to solve this are:
 ![Primal Kyogre](/images/pokemon/sprites/382-kyogre-primal.png)
 </div>
 
-The Primals are an interesting pair. They appeared at the same time as Mega Evolution and thus get associated with them, but their change is similar enough to Zacian and Zamazenta that I believe that they should return to Sword and Shield. The doggos' base stat totals are 720 so the Primals with base stat totals of 780 aren't too outrageous comparatively. But, to make balance them a bit, their base stat totls should be reudced to 730 with the Attack for Primal Kyogre becoming Kyogre's own and the Special Attack of Primal Groudon becoming Groudon's own.
+The Primals are an interesting pair. They appeared at the same time as Mega Evolution and thus get associated with them, but their change is similar enough to Zacian and Zamazenta that I believe that they should return to Sword and Shield. The doggos' base stat totals are 720 so the Primals with base stat totals of 780 aren't too outrageous comparatively. But, to make balance them a bit, their base stat totals should be reudced to 730 with the Attack for Primal Kyogre becoming Kyogre's own and the Special Attack of Primal Groudon becoming Groudon's own.
 
 Then there is the matter of their weather effects: Primordial Sea and Desolate Land. These can be added back with some modifications:
 - Hail and Sandstorm can be set when these are active.
