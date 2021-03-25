@@ -8,6 +8,8 @@ categories: Pokémon
 
 With some feedback on the team from my [earlier post](/posts/2020/12/01/Pokemon-Series-7-Team) from [Gabby Snyder](https://twitter.com/GabbySnyder) after she played with it on [her Twitch stream](https://www.twitch.tv/simplygabby), the spreads have been updated from try to allow the Pokémon to survive better against less favourable matches. And, I changed Protect to Fire Punch on Electivire; while I can't Protect when using Earthquake with Landorus I have addresses the need for a Fire move.
 
+<div id="team" markdown="1">
+
 ![Electivire](/images/pokemon/sprites/466-electivire.png) <br>
 Electivire @ Lum Berry <br>
 Ability: Motor Drive <br>
@@ -77,6 +79,7 @@ Calm Nature <br>
 \- Trick Room <br>
 \- Taunt <br>
 
+</div>
 
 Pokepaste: [https://pokepast.es/8666e31fba9c055c](https://pokepast.es/8666e31fba9c055c) <br>
 Rental Code: 0000 0000 T6YR 7V <br>

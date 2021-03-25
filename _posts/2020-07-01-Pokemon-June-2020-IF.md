@@ -22,6 +22,8 @@ In Pokémon Sword, I reused my team from the Pokemon May 2020 International Chal
 
 In Pokémon Shield, I made a new team consisting of the Pokémon shown below. My main strategy was to use Whimsicott to lower the Special Defense of opponent Pokémon using Fake Tears and have Dragapult or Duraludon get a OHKO with a Max move.
 
+<div id="team" markdown="1">
+
 ![Dragapult](/images/pokemon/sprites/887-dragapult.png) <br>
 Dragapult (F) @ Life Orb <br>
 Ability: Clear Body <br>
@@ -91,5 +93,7 @@ Careful Nature <br>
 \- Taunt <br>
 \- Light Screen <br>
 \- Fake Out <br>
+
+</div>
 
 Here is the Pokepaste for my Shield team: [https://pokepast.es/73523c13b8db0d26](https://pokepast.es/73523c13b8db0d26)

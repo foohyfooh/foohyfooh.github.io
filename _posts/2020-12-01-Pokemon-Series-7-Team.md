@@ -17,6 +17,8 @@ Usual choices for Pokémon in the back
 2. Comfey. Since I usually lead Electivire, Comfey can be a good choice for late game heals to ensure that I have a fast Pokémon remaining that can continue to deal damage to my opponent.
 3. Landorus Therian. This Pokémon comes in handy since it can be used for cycling Intimidate with the help of Tapu Koko.
 
+<div id="team" markdown="1">
+
 ![Electivire](/images/pokemon/sprites/466-electivire.png) <br>
 Electivire @ Lum Berry <br>
 Ability: Motor Drive <br>
@@ -86,6 +88,7 @@ Calm Nature <br>
 \- Trick Room <br>
 \- Taunt <br>
 
+</div>
 
 Pokepaste: [https://pokepast.es/353894c63625f415](https://pokepast.es/353894c63625f415) <br>
 Rental Code: 0000 0005 CXL7 GY <br>

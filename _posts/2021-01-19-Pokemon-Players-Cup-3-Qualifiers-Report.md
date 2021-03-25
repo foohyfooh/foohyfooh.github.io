@@ -12,6 +12,7 @@ The first thing that I did was remove everything other than Electivire + Tapu Ko
 
 The latter choices were to give me coverage and build a reasonable team. I used White Herb Garchomp as opposed to Landorus Therian for my Ground type; the idea I took from [Graham Amedee](https://twitter.com/amedeegraham) while watching his [Players Cup 3 Prep Videos](https://www.youtube.com/playlist?list=PLgGNMT7qMyqtnmNVtuxJdkMDBoBFf65KC). The downside of this change was that I lost my Intimidate option, but it does have the benefit of Rough Skin which gets good chip damage on Pokémon. I added Heatran since I didn't have much Fire coverage other than Fire Punch on Electivire, and there was also the added benefit of getting Steel type coverage. The last Pokémon that was added was Galarian Zapdos. Picking it was a mix of just to try it out and to add Taunt to the team.
 
+<div id="team" markdown="1">
 
 ![Electivire](/images/pokemon/sprites/466-electivire.png) <br>
 Electivire @ Lum Berry <br>
@@ -82,6 +83,7 @@ Jolly Nature <br>
 \- Blaze Kick <br>
 \- Taunt <br>
 
+</div>
 
 Pokepaste: [https://pokepast.es/8acc27e1f19b8f5e](https://pokepast.es/8acc27e1f19b8f5e) <br>
 Rental Code: 0000 0005 RL9L HF <br>
