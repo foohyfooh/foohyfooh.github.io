@@ -96,4 +96,4 @@ With that out of the way, I played in the Pokémon Players Cup 3 Qualifiers. One
 These suggest that I might need something like Will-o-Wisp so that I can limit my opponent's ability to push forward.
 
 And, here are the results:
-![Team Rental](/images/pokemon/2021_01_19_players_cup_3_qualifier_results.jpg)
+![Results](/images/pokemon/2021_01_19_players_cup_3_qualifier_results.jpg)
