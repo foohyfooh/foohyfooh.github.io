@@ -5,21 +5,7 @@ date:   2020-12-12 -0400
 categories: Pokémon
 ---
 <link rel="stylesheet" href="/assets/pokemon.css">
-
-<style>
-#spotlights {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-row-gap: 25px;
-  row-gap: 25px;
-}
-.spotlight {
-  display: grid;
-  grid-template-rows: 1fr;
-  font-weight: bold;
-  text-align: center;
-}
-</style>
+<link rel="stylesheet" href="/assets/spotlights.css">
 
 [Rosemary "Nekkra" Kelley](https://twitter.com/NekkraGaming) has a [Pokemon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During the [Pokémon Players Cup 2](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-ii/about/) streams, Nekkra provided some of these spotlights for the Pokémon Company, and since there aren't any separate videos for them, I have recorded the timestamps from the streams here for the Pokémon that were covered. Click on the Pokémon to view the spotlights.
 
