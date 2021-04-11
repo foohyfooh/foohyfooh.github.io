@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
 sass:
   style: compressed
+highlighter: rouge
 
 # Collection Settigs
 collections:
