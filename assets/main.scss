@@ -1,0 +1,27 @@
+---
+# Front matter comment to ensure Jekyll properly reads the file
+---
+
+@import "minima";
+
+.wrapper {
+  max-width: calc(1000px - (30px * 2));
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h3, .item p{
+  margin-bottom: 0;
+}
+
+.item a {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.item p {
+  font-size: small;
+  font-style: italic;
+}

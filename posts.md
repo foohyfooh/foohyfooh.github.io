@@ -3,7 +3,6 @@ title: Posts
 layout: page
 permalink: /posts/
 ---
-<link rel="stylesheet" href="/assets/page.css">
 
 {% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts %}
