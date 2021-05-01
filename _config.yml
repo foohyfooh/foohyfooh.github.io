@@ -11,6 +11,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - posts.md
+  - pages/Nekkra-Pokemon-Spotlights.md
 plugins:
   - jekyll-feed
 sass:
