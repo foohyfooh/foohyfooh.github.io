@@ -10,8 +10,8 @@ github_username: foohyfooh
 markdown: kramdown
 theme: minima
 header_pages:
-  - posts.md
-  - pages/Nekkra-Pokemon-Spotlights.md
+  - pages/posts.md
+  - pages/pokemon.md
 plugins:
   - jekyll-feed
 sass:

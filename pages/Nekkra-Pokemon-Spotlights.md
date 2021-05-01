@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nekkra's Pokémon Spotlights"
-permalink: /posts/Nekkra-Pokemon-Spotlights
+permalink: /pokemon/Nekkra-Pokemon-Spotlights
 categories: Pokémon
 ---
 <link rel="stylesheet" href="/assets/pokemon.css">
