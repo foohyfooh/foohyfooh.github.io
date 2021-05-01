@@ -14,6 +14,7 @@ header_pages:
   - pages/pokemon.md
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 sass:
   style: compressed
 highlighter: rouge
