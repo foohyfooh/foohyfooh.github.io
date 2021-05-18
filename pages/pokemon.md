@@ -11,6 +11,10 @@ categories: Pokémon
   <h3 markdown="1">[Nekkra's Pokémon Spotlights](/pokemon/Nekkra-Pokemon-Spotlights)</h3>
   <p>Last Updated: April 25, 2021 for Players Cup 3</p>
 </div>
+<div class="item">
+  <h3 markdown="1">[HP Calculator](/pokemon/HP-Activation-Calculator)</h3>
+  <p>Last Updated: May 17, 2021 with Gen 8 mechanics</p>
+</div>
 
 ## Posts
 
