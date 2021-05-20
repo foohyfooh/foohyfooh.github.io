@@ -13,7 +13,7 @@ categories: Pokémon
 </div>
 <div class="item">
   <h3 markdown="1">[HP Calculator](/pokemon/HP-Activation-Calculator)</h3>
-  <p>Last Updated: May 17, 2021 with Gen 8 mechanics</p>
+  <p>Last Updated: May 20, 2021 with Gen 8 mechanics</p>
 </div>
 
 ## Posts

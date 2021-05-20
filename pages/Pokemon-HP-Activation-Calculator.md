@@ -48,6 +48,7 @@ Cheek Pouch would heal <span id="cheekPouch">0</span> HP after consuming a berry
 Zen Mode, Wimp Out, Emergency Exit, Shields Down and Schooling, and Beserk would activate below <span id="belowHalf">0</span> HP.<br/>
 
 <p class="title">Move Effects:</p>
+Substitute would require <span id="substitute">0</span> HP to activate.<br/>
 Bind, Clamp, Fire Spin, Infestation, Magma Storm, Sand Tomb, Snap Trap, Thunder Cage, Whirlpool, Wrap, G-Max Centiferno, and G-Max Sandblast would deal <span id="binding">0</span> damage at the end of the turn.<br/>
 G-Max Wildfire, G-Max Cannonade, and G-Max Vine Lash would deal <span id="gmaxEffect"></span> damage at the end of the turn.
 </div>
@@ -80,6 +81,7 @@ G-Max Wildfire, G-Max Cannonade, and G-Max Vine Lash would deal <span id="gmaxEf
     const gluttonySpan = document.querySelector("#gluttony");
     const cheekPouchSpan = document.querySelector("#cheekPouch");
     const belowHalfSpan = document.querySelector("#belowHalf");
+    const substituteSpan = document.querySelector("#substitute");
     const bindingSpan = document.querySelector("#binding");
     const gmaxEffectSpan = document.querySelector("#gmaxEffect");
 
@@ -134,6 +136,7 @@ G-Max Wildfire, G-Max Cannonade, and G-Max Vine Lash would deal <span id="gmaxEf
       belowHalf.innerHTML = halfValue;
 
       // Handle Move Effects
+      substituteSpan.innerHTML = quarterValue;
       bindingSpan.innerHTML = eightValue;
       gmaxEffectSpan.innerHTML = lowestValue(hpValue / 6);
     };
