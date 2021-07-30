@@ -9,6 +9,27 @@ categories: Pokémon
 
 [Rosemary "Nekkra" Kelley](https://twitter.com/Nekkra) has a [Pokemon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During various Pokémon events, Nekkra provided some of these spotlights for the Pokémon Company. I have recorded the timestamps from the various streams here for the Pokémon that were covered so that you can find them if there isn't a separate video for them. Click on the Pokémon to view the spotlights.
 
+## [Pokémon Players Cup 4](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iv/about/)
+
+### Region Finals
+<div id="spotlights" markdown="1">
+<div class="spotlight" markdown="1">
+  <span>Gothitelle</span><br>
+  [![Gothitelle](/images/pokemon/sprites/576-gothitelle.png)](https://youtu.be/9O-3LbxExYY?t=1647)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Zapdos</span><br>
+  [![Zapdos](/images/pokemon/sprites/145-zapdos.png)](https://youtu.be/9O-3LbxExYY?t=12515)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Coalossal </span><br>
+  [![Coalossal](/images/pokemon/sprites/839-coalossal.png)](https://youtu.be/RtwJfw3N9UI?t=1487)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Venusaur</span><br>
+  [![Venusaur](/images/pokemon/sprites/003-venusaur.png)](https://youtu.be/RtwJfw3N9UI?t=10885)
+</div>
+</div>
 
 ## [Pokémon Players Cup 3](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iii/about/)
 
