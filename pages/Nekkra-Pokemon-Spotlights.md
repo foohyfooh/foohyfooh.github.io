@@ -7,7 +7,7 @@ categories: Pokémon
 <link rel="stylesheet" href="/assets/pokemon.css">
 <link rel="stylesheet" href="/assets/spotlights.css">
 
-[Rosemary "Nekkra" Kelley](https://twitter.com/NekkraGaming) has a [Pokemon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During various Pokémon events, Nekkra provided some of these spotlights for the Pokémon Company. I have recorded the timestamps from the various streams here for the Pokémon that were covered so that you can find them if there isn't a separate video for them. Click on the Pokémon to view the spotlights.
+[Rosemary "Nekkra" Kelley](https://twitter.com/Nekkra) has a [Pokemon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During various Pokémon events, Nekkra provided some of these spotlights for the Pokémon Company. I have recorded the timestamps from the various streams here for the Pokémon that were covered so that you can find them if there isn't a separate video for them. Click on the Pokémon to view the spotlights.
 
 
 ## [Pokémon Players Cup 3](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iii/about/)

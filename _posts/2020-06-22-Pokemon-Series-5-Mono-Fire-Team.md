@@ -8,7 +8,7 @@ categories: Pokémon
 
 In preparation for the upcoming Pokémon Sword and Shield Series 5 Ranked Battles, I made a mono fire team on [Pokémon Showdown](https://play.pokemonshowdown.com/). My inspiration was that I wanted to use Alolan Marowak and Talonflame.
 
-The EV spreads of the team are just simple spreads of 252 in the key stats, the Arcanine spread came from [Nekkra](https://twitter.com/NekkraGaming)'s April 2020 International Challenge Team, and one modified version of a Torracat spread from [Victory Road](https://victoryroadvgc.com/).
+The EV spreads of the team are just simple spreads of 252 in the key stats, the Arcanine spread came from [Nekkra](https://twitter.com/Nekkra)'s April 2020 International Challenge Team, and one modified version of a Torracat spread from [Victory Road](https://victoryroadvgc.com/).
 
 ## Version 1
 
@@ -119,4 +119,4 @@ During some games with the next version of the team, I realised I don't use Fake
 
 The pokepaste for version 1 of the team is here: [https://pokepast.es/5051b84a8c16c68d](https://pokepast.es/5051b84a8c16c68d) <br>
 The pokepaste for version 2 of the team is here: [https://pokepast.es/3c5b06bcd6e8229d](https://pokepast.es/3c5b06bcd6e8229d) <br>
-The rental code for Nekkra's Team where the Arcanine spread came from is here: [Nekkra's Team Tweet](https://twitter.com/NekkraGaming/status/1250881079843553280)
+The rental code for Nekkra's Team where the Arcanine spread came from is here: [Nekkra's Team Tweet](https://twitter.com/Nekkra/status/1250881079843553280)
