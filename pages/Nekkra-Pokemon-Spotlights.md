@@ -11,6 +11,26 @@ categories: Pokémon
 
 ## [Pokémon Players Cup 4](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iv/about/)
 
+### Global Finals
+<div id="spotlights" markdown="1">
+<div class="spotlight" markdown="1">
+  <span>Togekiss</span><br>
+  [![Togekiss](/images/pokemon/sprites/468-togekiss.png)](https://youtu.be/MM35V1wkp4Q?t=1901)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Grimmsnarl</span><br>
+  [![Grimmsnarl](/images/pokemon/sprites/861-grimmsnarl.png)](https://youtu.be/MM35V1wkp4Q?t=13007)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Garchomp</span><br>
+  [![Garchomp](/images/pokemon/sprites/445-garchomp.png)](https://youtu.be/BW7Ia97syrA?t=1597)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Celesteela</span><br>
+  [![Celesteela](/images/pokemon/sprites/797-celesteela.png)](https://youtu.be/BW7Ia97syrA?t=9246)
+</div>
+</div>
+
 ### Region Finals
 <div id="spotlights" markdown="1">
 <div class="spotlight" markdown="1">
