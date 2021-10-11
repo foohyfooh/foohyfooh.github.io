@@ -30,11 +30,13 @@ The portals make backtracking much easier and the reduces the fatigue going thro
 
 Adam's debriefs should have need to have two improvements: autoplay and skip. While the game plays audio for them, it relies on you to progress it. This should be improved so that it has an optional autoplay. And, there should be an option to just outright skip it. In the debrief before the last boss, you can skip it and the cutscene that follows, but this option is missing from the other debriefs.
 
+There is a small additional delay in load times when moving in and out of rooms with cutscenes. This should be addressed so that it loads normally when the cutscene is no longer going to play.
+
 While I am a fan of the Melee Counter that was added in Metroid Samus Returns, I believe that it should been changed to do damage, similar to the Dash Melee, rather than simply knocking back enemies when they are not attacking. It would reduce the time you need to wait enemies to get to that proper counter phase.
 
 The number of prompts for the Omega Cannon needs to be reduced. Every time you get it you get separate prompts for the Omega Blaster and Omega Stream. This should have been a single prompt saying that the Omega Cannon was online and the player would already know that both of its functionality are available already.
 
-Aeion Abilities  should not have just consumed the whole bar. It would have been nicer to be able to turn on and off the Phantom Cloak at will, or use a single Flash Shift and then do future ones, or some combination of those abilities.
+Aeion Abilities should not have just consumed the whole bar. It would have been nicer to be able to turn on and off the Phantom Cloak at will, or use a single Flash Shift and then do future ones, or some combination of those abilities.
 
 I don't like when a game that has only two difficulty options, as far as I know, requires you to beat it on the easier mode to unlock the harder one. While someone like me would have a difficult time on Hard Mode, it would be nice for expert players to have the option available  one time. But, to the game's credit they at least made it that once you unlock Hard Mode you can just play it on any file without having to copy the completed one first.
 
