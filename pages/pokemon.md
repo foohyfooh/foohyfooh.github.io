@@ -9,7 +9,7 @@ categories: Pokémon
 
 <div class="item">
   <h3 markdown="1">[Nekkra's Pokémon Spotlights](/pokemon/Nekkra-Pokemon-Spotlights)</h3>
-  <p>Last Updated: August 2, 2021 for Players Cup 4</p>
+  <p>Last Updated: April 24, 2022 for 2022 European International Championships</p>
 </div>
 <div class="item">
   <h3 markdown="1">[HP Calculator](/pokemon/HP-Activation-Calculator)</h3>

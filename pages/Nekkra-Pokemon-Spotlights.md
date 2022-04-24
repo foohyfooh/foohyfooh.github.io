@@ -9,10 +9,27 @@ categories: Pokémon
 
 [Rosemary "Nekkra" Kelley](https://twitter.com/Nekkra) has a [Pokemon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During various Pokémon events, Nekkra provided some of these spotlights for the Pokémon Company. I have recorded the timestamps from the various streams here for the Pokémon that were covered so that you can find them if there isn't a separate video for them. Click on the Pokémon to view the spotlights.
 
+## [2022 European International Championships](https://www.pokemon.com/us/play-pokemon/internationals/2022/europe/about/)
+
+<div class="spotlights-3" markdown="1">
+<div class="spotlight" markdown="1">
+  <span>Kyogre</span><br>
+  [![Kyogre](/images/pokemon/sprites/382-kyogre.png)](https://youtu.be/iX7wMYKqKEI?t=2751)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Groudon</span><br>
+  [![Groudon](/images/pokemon/sprites/383-groudon.png)](https://youtu.be/iX7wMYKqKEI?t=5249)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Zacian</span><br>
+  [![Zacian](/images/pokemon/sprites/888-zacian-crowned.png)](https://youtu.be/iX7wMYKqKEI?t=10032)
+</div>
+</div>
+
 ## [Pokémon Players Cup 4](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iv/about/)
 
 ### Global Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Togekiss</span><br>
   [![Togekiss](/images/pokemon/sprites/468-togekiss.png)](https://youtu.be/MM35V1wkp4Q?t=1901)
@@ -32,7 +49,7 @@ categories: Pokémon
 </div>
 
 ### Region Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Gothitelle</span><br>
   [![Gothitelle](/images/pokemon/sprites/576-gothitelle.png)](https://youtu.be/9O-3LbxExYY?t=1647)
@@ -54,7 +71,7 @@ categories: Pokémon
 ## [Pokémon Players Cup 3](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-iii/about/)
 
 ### Global Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Zacian</span><br>
   [![Zacian](/images/pokemon/sprites/888-zacian-crowned.png)](https://youtu.be/hmyvb1gWmco?t=1956)
@@ -74,7 +91,7 @@ categories: Pokémon
 </div>
 
 ### Region Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Dialga</span><br>
   [![Dialga](/images/pokemon/sprites/483-dialga.png)](https://youtu.be/mK_FQh7Bs2k?t=1894)
@@ -96,7 +113,7 @@ categories: Pokémon
 ## [Pokémon Players Cup 2](https://www.pokemon.com/us/play-pokemon/pokemon-players-cup-ii/about/)
 
 ### Global Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Galarian Moltres</span><br>
   [![Galarian Moltres](/images/pokemon/sprites/146-moltres-galarian.png)](https://youtu.be/hFO3_Kel1Ac?t=2354)
@@ -116,7 +133,7 @@ categories: Pokémon
 </div>
 
 ### Region Finals
-<div id="spotlights" markdown="1">
+<div class="spotlights-4" markdown="1">
 <div class="spotlight" markdown="1">
   <span>Tapu Fini</span><br>
   [![Tapu Fini](/images/pokemon/sprites/788-tapu-fini.png)](https://youtu.be/25kDz4hfjBE?t=1755)
