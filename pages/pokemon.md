@@ -8,8 +8,8 @@ categories: Pokémon
 ## Hightlighted Content
 
 <div class="item">
-  <h3 markdown="1">[Nekkra's Pokémon Spotlights](/pokemon/Nekkra-Pokemon-Spotlights)</h3>
-  <p>Last Updated: April 24, 2022 for 2022 European International Championships</p>
+  <h3 markdown="1">[Pokémon Spotlights](/pokemon/Pokemon-Spotlights)</h3>
+  <p>Last Updated: July 12, 2022 for 2022 North America International Championships</p>
 </div>
 <div class="item">
   <h3 markdown="1">[HP Calculator](/pokemon/HP-Activation-Calculator)</h3>
