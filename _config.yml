@@ -2,9 +2,11 @@
 title: Jonathan Herbert
 email: ""
 description: >-
-  Jonathan Herbert's GitHub Page
+  My GitHub Page that is mostly for my infrequent ramblings, reviews, etc.
 url: "https://foohyfooh.github.io"
 github_username: foohyfooh
+bitbucket_username: foohyfooh
+gitlab_username: foohyfooh
 
 # Build Settings
 markdown: kramdown
