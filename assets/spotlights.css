@@ -9,6 +9,9 @@
 .spotlights-4 {
   grid-template-columns: repeat(4, 1fr);
 }
+.spotlights-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
 .spotlight {
   display: grid;
   grid-template-rows: 1fr;

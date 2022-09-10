@@ -9,7 +9,7 @@ categories: Pokémon
 
 <div class="item">
   <h3 markdown="1">[Pokémon Spotlights](/pokemon/Pokemon-Spotlights)</h3>
-  <p>Last Updated: July 12, 2022 for 2022 North America International Championships</p>
+  <p>Last Updated: September 10, 2022 for 2022 World Championships</p>
 </div>
 <div class="item">
   <h3 markdown="1">[HP Calculator](/pokemon/HP-Activation-Calculator)</h3>
