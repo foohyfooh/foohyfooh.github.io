@@ -2,7 +2,11 @@
 layout: post
 title:  "Pokémon Spotlights"
 permalink: /pokemon/Pokemon-Spotlights
-redirect_from: /pokemon/Nekkra-Pokemon-Spotlights
+redirect_from:
+ - /posts/2020/12/12/Nekkra-Players-Cup-2-Pokemon-Spotlights
+ - /posts/2021/04/11/Nekkra-Players-Cup-3-Pokemon-Spotlights
+ - /posts/2021/04/25/Nekkra-Players-Cup-3-Pokemon-Spotlights
+ - /pokemon/Nekkra-Pokemon-Spotlights
 categories: Pokémon
 ---
 <link rel="stylesheet" href="/assets/pokemon.css">
