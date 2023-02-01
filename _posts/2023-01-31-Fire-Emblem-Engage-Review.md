@@ -19,13 +19,13 @@ As usual, the supports are where much of the characterisation comes from in the 
 
 One of the problems with the Emblems is that there are too many currencies (Bond Fragments and SP) when dealing with them. SP can only be gained from units in the fight who wear Emblem or Bong Rings which made it hard for me to go back to units that I no longer used. Either units should get SP without wearing a Ring; or SP shouldn't have existed and be replaced by Bond Fragments. The former would make it that the new units you gain during a chapter can actually gain SP immediately rather than losing out on the potential gains in the current chapter. The latter would have made it easier to go back to previous units and give them the new upgrades since Bond Fragments would be a global resource that can be farmed by anyone. But my comments about SP gains could be tainted by the fact that I neglected using Bond Rings after the first few I made since they felt like too much of a gamble to get those that actually give meaningful benefits.
 
-I feel like inheriting skills should have been not been restricted to Bond Level 5. It makes it harder to actually get the useful abilities from the Emblems for those unit who don't wear an Emblem Ring during the early game where the number of rings is low, but I guess that was the intent.
+I feel like inheriting skills shouldn't have been  restricted to Bond Level 5. It makes it harder to actually get the useful abilities from the Emblems for those unit who don't wear an Emblem Ring during the early game where the number of rings is low, but I guess that was the intent.
 
 One thing that affected my playthrough were the DLC Emblems (Tiki and Edelgard & Dimitri & Claude). Tiki's Divine Blessing allowed me to be more aggressive at time by making risky plays have little consequence, and the House Leaders' Lineage made gaining exp easier before getting Byleth's Mentorship.
 
 ## Arena
 
-This feature had no business being its own room. It is basically  and empty room with a loading screen that just took up time. It should have been either like the Stable where it is just a menu or in the Training Yard And as you go through the story, the number of times you get to train should have increased especially so your less used units can actually catch up.
+This feature had no business being its own room. It is basically an empty room with a loading screen that just took up time. It should have been either like the Stable where it is just a menu or in the Training Yard And as you go through the story, the number of times you get to train should have increased especially so your less used units can actually catch up.
 
 The strengthen bond with Emblems had no business being in the Arena and should have been in the Ring Vault. It didn't need to be a fight and the winner of the battles has no apparent consequence to the Bond. The only thing these fights affects is Achievements for battling Emblems a specific number of times since it would be harder to get them from the random NPC you battle in standard training which should not be the justification for it.
 
@@ -36,5 +36,7 @@ The Options menu on the main menu is a bad choice. Save game management should h
 The DLC option should not just go to the eShop. It should show a list of the DLC in the game with the ones you are missing greyed out with the option to go to the eShop or info about linking Fire Emblem Heroes.
 
 This game is missing the key features of a theatre mode which keeps track of all the movies and supports you have obtained across your various playthroughs. I expected it to be unlocked when I completed the story but was disappointed to see no such option.
+
+The Armory and Item Shops shouldn't have been separate since the Item Shop only had Staves and Tonics until you can get Master and Second Seals. It would have been much better to be able to get the necessary items for your units in a single shop and it would have reduced the levels you have to go down in the Marketplace menu when doing purchases in a chapter.
 
 The game should also keep track of the progress you made in the final chapter rather than reverting it.
