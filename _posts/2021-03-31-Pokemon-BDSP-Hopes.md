@@ -46,7 +46,7 @@ Cresselia already gets a little story bit in the game in Canalave City, but I be
 ![Arceus](/images/pokemon/sprites/493-arceus.png)
 Arceus' event item, the Azure Flute, was never distributed in the original Sinnoh games and thus you couldn't do its post game event legitimately. While Arceus is getting its own game that shouldn't stop it from getting proper treatment in the remakes. And, if it is included in the game, there could also be a reference to the Sinjoh Ruins which appeared in the HeartGold and SoulSilver games.
 
-Furthermore, this kind of changes should also apply to Shaymin and Manaphy as well.
+Furthermore, these kinds of changes should also apply to Shaymin and Manaphy as well.
 
 ## Post Game Activities
 Lastly, these remakes need to have the post game activities that allow for players to keep coming to the games for new content.
