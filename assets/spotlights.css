@@ -3,6 +3,9 @@
   grid-row-gap: 25px;
   row-gap: 25px;
 }
+.spotlights-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
 .spotlights-3 {
   grid-template-columns: repeat(3, 1fr);
 }

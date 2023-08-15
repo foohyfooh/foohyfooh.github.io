@@ -14,6 +14,18 @@ categories: Pokémon
 
 [Rosemary "Nekkra" Kelley](https://twitter.com/Nekkra) had a [Pokémon Spotlights Series](https://www.youtube.com/playlist?list=PLrq2Cq_O6NozQpypqhFzz-0NPs70HESlF) where she discusses Pokémon that are commenly used in the VGC meta. During various Pokémon events, Nekkra and others provide some of these spotlights for the Pokémon Company. I have recorded the timestamps from the various streams here for the Pokémon that were covered so that you can find them easily. Click on the Pokémon to view the spotlights.
 
+## [2023 World Championships](https://worlds.pokemon.com/en-us/)
+<div class="spotlights-2">
+<div class="spotlight" markdown="1">
+  <span>Treasures of Ruin</span><br>
+  [![Treasures of Ruin](/images/pokemon/sprites/1001-1004-treasures-of-ruin.png)](https://youtu.be/SL9DwzrqJz8?t=31956)
+</div>
+<div class="spotlight" markdown="1">
+  <span>Terastallization </span><br>
+  [![Terastallization ](/images/pokemon/Tera_Orb.png)](https://youtu.be/UlhfECdgXEI?t=28810)
+</div>
+</div>
+
 ## [2022 World Championships](https://www.pokemon.com/us/play-pokemon/worlds/2022/about/)
 <div class="spotlights-5">
 <div class="spotlight" markdown="1">
