@@ -40,7 +40,7 @@ Solar Power would deal <span id="solarPower">0</span> damage in sun at the end o
 Rain Dish and Ice Body would heal <span id="weatherHeal">0</span> HP in rain or hail repsectively at the end of the turn.<br/>
 Dry Skin would deal <span id="drySkinDamage">0</span> damage in sun at the end of the turn and heal <span id="drySkinRestore">0</span> HP in rain at the end of the turn.<br/>
 Volt Absorb and Water Absorb would heal <span id="absorb">0</span> HP when hit by a Water or Electric move respectively.<br/>
-Regenerator would heal <span id="regenerator">0</span> d on switch out.<br/>
+Regenerator would heal <span id="regenerator">0</span> HP on switch out.<br/>
 Poison Heal would heal <span id="poisonHeal">0</span> HP at the end of the turn.<br/>
 Bad Dreams would deal <span id="badDreams">0</span> damage to sleeping Pokémon at the end of the turn.<br/>
 Gluttony would activate at <span id="gluttony">0</span> HP and consume a berry.<br/>
